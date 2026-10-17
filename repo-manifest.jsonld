@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/AntonOsika/gpt-engineer/commit/a90fcd543eedcc0ff2c34561bc0785d2ba83c47e",
       "git:hexsha": "a90fcd543eedcc0ff2c34561bc0785d2ba83c47e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/AntonOsika/gpt-engineer/commit/b22398e81458a88ba302f5b93aa3f8271c0983fb",
